@@ -1,7 +1,7 @@
 ---
 title: Cookie Arena CTF Season 2
 date: 2023-07-11 12:55 +0700
-tags: [ctf, web, forensics, misc]
+tags: [ctf, web, crypto, steganography, mobile, forensics, programming, reversing]
 categories: [CTF Writeups]
 author: Dat2Phit
 math: true
