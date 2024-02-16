@@ -597,7 +597,7 @@ Vẫn chưa hết... mình thấy có một khối chứa toàn hex, mình đem 
 
 ![](https://hackmd.io/_uploads/H1BoOsFF2.png)
 
-Sau đó mình thêm vào [header](http://www.libpng.org/pub/png/spec/1.2/PNG-Structure.html) của nó `89 50 4E 47 0D 0A 1A 0A 00 00 00 0D 49 48 44 52`
+Sau đó mình thêm vào [header](https://www.w3.org/TR/PNG-Structure.html) của nó `89 50 4E 47 0D 0A 1A 0A 00 00 00 0D 49 48 44 52`
 
 Mở ảnh lên thì thấy mã QR, quét nó là ra flag
 
