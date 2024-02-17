@@ -1,12 +1,12 @@
 ---
-title: HCMUS-CTF Warm-up 2023
+title: HCMUS-CTF 2023 Warm-up
 date: 2023-02-22 11:06 +0700
 tags: [ctf, web, forensics, misc]
 categories: [CTF Writeups]
 author: Dat2Phit
 ---
 
-Đây là một số writeups cho các challenges mà mình ra ở HCMUS-CTF Warm-up 2023.
+Đây là một số writeups cho các challenges mà mình ra ở HCMUS-CTF 2023 Warm-up.
 
 
 | Category | Challenge Name | Difficulty |
