@@ -16,7 +16,7 @@ The games I'm currently playing in my free time are Blue Archive and Project Sek
 
 **3<sup>rd</sup>** place (Vietnamese) as **blackpinker** in [TetCTF 2024](https://ctftime.org/event/2212)
 
-**3<sup>rd</sup>** place as **blackpinker** in [Wannagame Championship 2023](https://ctftime.org/event/2146)
+**3<sup>rd</sup>** (Vietnamese) place as **blackpinker** in [Wannagame Championship 2023](https://ctftime.org/event/2146)
 
 **3<sup>rd</sup>** place as **HCMUS.darknstormy** in [ASCIS qualification 2023](https://ascis.vnisa.org.vn/en/)
 
