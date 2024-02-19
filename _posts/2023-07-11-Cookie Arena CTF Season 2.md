@@ -5,7 +5,8 @@ tags: [ctf, web, crypto, steganography, mobile, forensics, programming, reversin
 categories: [CTF Writeups]
 author: Dat2Phit
 math: true
-image: /assets/img/Cookie Arena SS2/cookie.webp
+img_path: /assets/img/Cookie-Arena-SS2
+image: cookie.webp
 ---
 
 Writeup cho cookie arena CTF season, sau 2 ngày chiến đấu khóc liệt thì mình đã đạt được giải 3 🎉. Còn 2 bài web mình chưa giải kịp vì lúc đó mình quá là đuối rồi (┬┬﹏┬┬)
