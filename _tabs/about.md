@@ -22,7 +22,7 @@ The games I'm currently playing in my free time are Blue Archive and Project Sek
 
 **2<sup>nd</sup>** place as **!bl4ckp1nk3r** in [HCMUS-CTF 2023](https://ctftime.org/ctf/902)
 
-**7<sup>th</sup>** place as **blackpinker** in [1337UP LIVE CTF](https://ctftime.org/ctf/749/)
+**7<sup>th</sup>** place as **blackpinker** in [1337UP LIVE CTF](https://ctftime.org/event/2134)
 
 **3<sup>rd</sup>** place in Cookie Arena CTF Season 2
 
