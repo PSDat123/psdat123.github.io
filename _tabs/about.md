@@ -6,11 +6,9 @@ order: 4
 
 Hello, my name is Dat2Phit, I'm currently a 3rd-year IT student at HCMUS and also the vice president at [Computer Security Club - University of Science, VNU - HCM](https://www.facebook.com/hcmus.compsec.club)
 
-My main focus is web exploitation, I'm currently playing for my club's team, [blackpinker](https://ctftime.org/team/155048). I'm also open for invitation to join other teams.
+My main focus is web exploitation, I'm currently playing for my club's team, [blackpinker](https://ctftime.org/team/155048).
 
 I mainly train on dreamhack, the challenges there are really creative and fun, here's my profile [link](https://dreamhack.io/users/30626).
-
-The games I'm currently playing in my free time are Blue Archive and Project Sekai. I love every character in both games 😭.
 
 ## Achievements
 
