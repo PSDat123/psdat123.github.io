@@ -27,4 +27,4 @@ I mainly train on dreamhack, the challenges there are really creative and fun, h
 **2<sup>nd</sup>** place as **HCMUSLastHope** in Wannagame Championship 2022
 
 ---
-![banner](/assets/img/banner.jpg)
+![banner](/assets/img/misc/banner4.jpeg)
