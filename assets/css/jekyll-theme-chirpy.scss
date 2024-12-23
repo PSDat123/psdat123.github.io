@@ -44,3 +44,12 @@ pre {
   height: 100%;
   z-index: -1;
 }
+
+#topbar-wrapper {
+  border-radius: 0 0 .625rem .625rem;
+}
+
+#tail-wrapper>footer {
+  padding: 0 1.75rem;
+  border-radius: .625rem .625rem 0 0;
+}
