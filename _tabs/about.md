@@ -9,10 +9,6 @@ Hello, my name is Dat2Phit, I'm currently a final year IT student majoring in So
 My main focus is web exploitation, I'm currently playing ctf for [DeadSec](https://deadsec.team/) and my club's team, [blackpinker](https://ctftime.org/team/155048).
 
 I mainly train on dreamhack, the challenges there are really creative and fun, here's my profile [link](https://dreamhack.io/users/30626).
-## CVEs
-- [CVE-2024-53900](https://nvd.nist.gov/vuln/detail/CVE-2024-53900): Mongoose remote code execution
-- [CVE-2025-0465](https://nvd.nist.gov/vuln/detail/CVE-2025-0465): Unauthenticated RCE in AquilaCMS
-- [CVE-2025-23061](https://nvd.nist.gov/vuln/detail/CVE-2025-23061): Bypassed the patch for [CVE-2024-53900](https://nvd.nist.gov/vuln/detail/CVE-2024-53900)
 
 ## Achievements
 
