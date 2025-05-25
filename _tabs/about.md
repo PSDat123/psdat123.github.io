@@ -41,4 +41,4 @@ Right now, I’m part of Team 515 at [OPSWAT](https://www.opswat.com/), a team o
 **2<sup>nd</sup>** place as **HCMUSLastHope** in Wannagame Championship 2022
 
 ---
-![banner](/assets/img/misc/banner4.jpeg)
+![banner](/assets/img/misc/banner.jpeg)
