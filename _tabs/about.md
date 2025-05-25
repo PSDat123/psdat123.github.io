@@ -4,11 +4,19 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hello, my name is Dat2Phit, I'm currently a final year IT student majoring in Software Engineering (but I like web security more) at HCMUS and also the president of [Computer Security Club - University of Science, VNU - HCM](https://www.facebook.com/hcmus.compsec.club)
+Hello! I'm Dat2Phit, a final-year IT student at HCMUS, majoring in Software Engineering — though I'm way more into web security. I'm also the president of the [Computer Security Club - University of Science, VNU-HCM](https://www.facebook.com/hcmus.compsec.club).
 
-My main focus is web exploitation, I'm currently playing ctf for [DeadSec](https://deadsec.team/) and my club's team, [blackpinker](https://ctftime.org/team/155048).
+My main focus is **web exploitation**. I actively participate in CTF competitions with [DeadSec](https://deadsec.team/) and my club’s team, [blackpinker](https://ctftime.org/team/155048).
 
-I mainly train on dreamhack, the challenges there are really creative and fun, here's my profile [link](https://dreamhack.io/users/30626).
+I primarily train on DreamHack, the challenges there are super fun and creative. You can check out my profile [here](https://dreamhack.io/users/30626).
+
+Right now, I’m part of Team 515 at [OPSWAT](https://www.opswat.com/), a team of researchers and pentesters.
+
+## CVEs
+- [CVE-2024-53900](https://nvd.nist.gov/vuln/detail/CVE-2024-53900) (9.1 Critical): Mongoose ([Technical Blog](https://www.opswat.com/blog/technical-discovery-mongoose-cve-2025-23061-cve-2024-53900))
+- [CVE-2025-23061](https://nvd.nist.gov/vuln/detail/CVE-2025-23061) (9.0 Critical): Mongoose
+- [CVE-2025-0465](https://nvd.nist.gov/vuln/detail/CVE-2025-0465) (7.3 High): AquilaCMS
+- [CVE-2025-2875](https://nvd.nist.gov/vuln/detail/CVE-2025-2875) (7.5 High): Schneider Electric ([Wall of thanks](https://www.se.com/ww/en/work/support/cybersecurity/wall-of-thanks.jsp#2025))
 
 ## Achievements
 
