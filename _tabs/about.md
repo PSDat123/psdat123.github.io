@@ -10,7 +10,7 @@ My main focus is **web exploitation**. I actively participate in CTF competition
 
 I primarily train on DreamHack, the challenges there are super fun and creative. You can check out my profile [here](https://dreamhack.io/users/30626).
 
-Right now, I’m part of Team 515 at [OPSWAT](https://www.opswat.com/), a team of researchers and pentesters.
+Right now, I’m part of Unit 515 at [OPSWAT](https://www.opswat.com/), a team of researchers and pentesters.
 
 ## CVEs
 - [CVE-2024-53900](https://nvd.nist.gov/vuln/detail/CVE-2024-53900) (9.1 Critical): Mongoose ([Technical Blog](https://www.opswat.com/blog/technical-discovery-mongoose-cve-2025-23061-cve-2024-53900))
