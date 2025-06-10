@@ -17,6 +17,12 @@ Right now, I’m part of Unit 515 at [OPSWAT](https://www.opswat.com/), a team o
 - [CVE-2025-23061](https://nvd.nist.gov/vuln/detail/CVE-2025-23061) (9.0 Critical): Mongoose
 - [CVE-2025-0465](https://nvd.nist.gov/vuln/detail/CVE-2025-0465) (7.3 High): AquilaCMS
 - [CVE-2025-2875](https://nvd.nist.gov/vuln/detail/CVE-2025-2875) (7.5 High): Schneider Electric ([Wall of thanks](https://www.se.com/ww/en/work/support/cybersecurity/wall-of-thanks.jsp#2025))
+- [CVE-2025-3112](https://nvd.nist.gov/vuln/detail/CVE-2025-3112) (6.5 Medium): Schneider Electric
+- [CVE-2025-3116](https://nvd.nist.gov/vuln/detail/CVE-2025-3116) (6.5 Medium): Schneider Electric
+- [CVE-2025-3117](https://nvd.nist.gov/vuln/detail/CVE-2025-3117) (5.4 Medium): Schneider Electric
+- [CVE-2025-3898](https://nvd.nist.gov/vuln/detail/CVE-2025-3898) (6.5 Medium): Schneider Electric
+- [CVE-2025-3899](https://nvd.nist.gov/vuln/detail/CVE-2025-3899) (5.4 Medium): Schneider Electric
+- [CVE-2025-3905](https://nvd.nist.gov/vuln/detail/CVE-2025-3905) (5.4 Medium): Schneider Electric
 
 ## Achievements
 
