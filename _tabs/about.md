@@ -23,6 +23,7 @@ Right now, I’m part of Unit 515 at [OPSWAT](https://www.opswat.com/), a team o
 - [CVE-2025-3898](https://nvd.nist.gov/vuln/detail/CVE-2025-3898) (6.5 Medium): Schneider Electric
 - [CVE-2025-3899](https://nvd.nist.gov/vuln/detail/CVE-2025-3899) (5.4 Medium): Schneider Electric
 - [CVE-2025-3905](https://nvd.nist.gov/vuln/detail/CVE-2025-3905) (5.4 Medium): Schneider Electric
+- [CVE-2025-6197](https://nvd.nist.gov/vuln/detail/CVE-2025-6197) (4.2 Medium): Grafana (Coming soon)
 
 ## Achievements
 
