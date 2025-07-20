@@ -23,9 +23,11 @@ Right now, I’m part of Unit 515 at [OPSWAT](https://www.opswat.com/), a team o
 - [CVE-2025-3898](https://nvd.nist.gov/vuln/detail/CVE-2025-3898) (6.5 Medium): Schneider Electric
 - [CVE-2025-3899](https://nvd.nist.gov/vuln/detail/CVE-2025-3899) (5.4 Medium): Schneider Electric
 - [CVE-2025-3905](https://nvd.nist.gov/vuln/detail/CVE-2025-3905) (5.4 Medium): Schneider Electric
-- [CVE-2025-6197](https://nvd.nist.gov/vuln/detail/CVE-2025-6197) (4.2 Medium): Grafana (Coming soon)
+- [CVE-2025-6197](https://nvd.nist.gov/vuln/detail/CVE-2025-6197) (4.2 Medium): Grafana
 
 ## Achievements
+
+**2<sup>nd</sup>** place as **HCMUS.Soju** in [Hacktheon Sejong 2025 Final (Beginner Division)](https://hacktheon.org/c2025)
 
 **1<sup>st</sup>** place as **blackpinker** in [Wannagame Championship 2024](https://ctftime.org/event/2515/)
 
