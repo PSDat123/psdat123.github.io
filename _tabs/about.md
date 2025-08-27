@@ -6,11 +6,9 @@ order: 4
 
 Hello! I'm Dat2Phit, a final-year IT student at HCMUS, majoring in Software Engineering — though I'm way more into web security. I'm also the president of the [Computer Security Club - University of Science, VNU-HCM](https://www.facebook.com/hcmus.compsec.club).
 
-My main focus is **web exploitation**. I actively participate in CTF competitions with [DeadSec](https://deadsec.team/) and my club’s team, [blackpinker](https://ctftime.org/team/155048).
+My main focus is **web exploitation**. I primarily train on DreamHack, the challenges there are super fun and creative. You can check out my profile [here](https://dreamhack.io/users/30626).
 
-I primarily train on DreamHack, the challenges there are super fun and creative. You can check out my profile [here](https://dreamhack.io/users/30626).
-
-Right now, I’m part of Unit 515 at [OPSWAT](https://www.opswat.com/), a team of researchers and pentesters.
+Right now, I’m part of [Unit 515](https://www.opswat.com/515) at [OPSWAT](https://www.opswat.com/), a team of researchers and pentesters.
 
 ## CVEs
 - [CVE-2024-53900](https://nvd.nist.gov/vuln/detail/CVE-2024-53900) (9.1 Critical): Mongoose ([Technical Blog](https://www.opswat.com/blog/technical-discovery-mongoose-cve-2025-23061-cve-2024-53900))
@@ -23,7 +21,7 @@ Right now, I’m part of Unit 515 at [OPSWAT](https://www.opswat.com/), a team o
 - [CVE-2025-3898](https://nvd.nist.gov/vuln/detail/CVE-2025-3898) (6.5 Medium): Schneider Electric
 - [CVE-2025-3899](https://nvd.nist.gov/vuln/detail/CVE-2025-3899) (5.4 Medium): Schneider Electric
 - [CVE-2025-3905](https://nvd.nist.gov/vuln/detail/CVE-2025-3905) (5.4 Medium): Schneider Electric
-- [CVE-2025-6197](https://nvd.nist.gov/vuln/detail/CVE-2025-6197) (4.2 Medium): Grafana
+- [CVE-2025-6197](https://nvd.nist.gov/vuln/detail/CVE-2025-6197) (4.2 Medium): Grafana ([Hall of Fame](https://grafana.com/security/hall-of-fame/))
 
 ## Achievements
 
